@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 [params] # theme parameters
     author = "Chintan Shah" # Author's name.
-    info = "Northeastern University Masters in Computer Science 2020" # Author's job title or info.
+    info = "MS in Computer Science @ Northeastern" # Author's job title or info.
     description = "Chintan Shah's Personal Website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
 
